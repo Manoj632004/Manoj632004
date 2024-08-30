@@ -6,3 +6,4 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/manoj-s-2a7876214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manoj-s-2a7876214/" height="30" width="40" /></a>
 
 <a href="https://medium.com/@manoj632004s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@manoj632004s" height="30" width="40" /></a>
+</p>
