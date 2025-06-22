@@ -8,7 +8,6 @@
 
 ### Tech Stack
 
-#### 💻 Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -17,7 +16,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🧠 AI / ML / Data  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -26,8 +24,7 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFDE57?style=for-the-badge&logo=huggingface&logoColor=black)
 ![NLTK](https://img.shields.io/badge/NLTK-3C3C3C?style=for-the-badge&logo=python&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-
-#### 🌐 Web Development  
+ 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -36,8 +33,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
-#### ☁️ Cloud & DevOps  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure AI](https://img.shields.io/badge/AzureAI-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
@@ -45,6 +40,9 @@
 ![Dataverse](https://img.shields.io/badge/Dataverse-512BD4?style=for-the-badge&logo=dataverse&logoColor=white)
 
 
+### Publications
 
-
+- 📄 **[A Survey on Sentiment Analysis in Tamil: Critical Analysis](http://dx.doi.org/10.15439/2024R28)**, Proceedings of the 2024 Ninth International Conference on Research in Intelligent Computing in Engineering. ACSIS, Vol. 42, pages 49–62 (2024)
+  
+- 📄 **[Banana Plant Disease Classification using Transfer Learning](https://link.springer.com/book/9789819661237)**, Proceedings of ICCCN 2024.
 
