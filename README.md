@@ -43,6 +43,4 @@
 ### Publications
 
 - 📄 **[A Survey on Sentiment Analysis in Tamil: Critical Analysis](http://dx.doi.org/10.15439/2024R28)**, Proceedings of the 2024 Ninth International Conference on Research in Intelligent Computing in Engineering. ACSIS, Vol. 42, pages 49–62 (2024)
-  
-- 📄 **[Banana Plant Disease Classification using Transfer Learning](https://link.springer.com/book/9789819661237)**, Proceedings of ICCCN 2024.
 
