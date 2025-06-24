@@ -37,6 +37,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Entra ID](https://img.shields.io/badge/Azure%20Entra%20ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure AI](https://img.shields.io/badge/AzureAI-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
