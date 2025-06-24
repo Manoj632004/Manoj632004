@@ -33,11 +33,15 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure AI](https://img.shields.io/badge/AzureAI-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Dataverse](https://img.shields.io/badge/Dataverse-512BD4?style=for-the-badge&logo=dataverse&logoColor=white)
+
 
 
 ### Publications
