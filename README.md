@@ -1,10 +1,10 @@
-<h1 align="left">Hi 👋, I'm Manoj</h1>
+<h1 align="left">Hi, I'm Manoj</h1>
 <h3 align="left">Machine Learning Researcher and Engineer</h3>
 
 ### About Me  
-- 🎓 Graduated with a Bachelor's in Computer Science & Engineering from **Alliance University, Bengaluru**  
-- 🤖 Active in **Deep Learning** & **Natural Language Processing** research and development  
-- 🤝 Open to **collaborations** in tech and research of any kind  
+- Graduated with a Bachelor's in Computer Science & Engineering from **Alliance University, Bengaluru**  
+- Active in **Deep Learning** & **Natural Language Processing** research and development  
+- Open to **collaborations** in tech and research of any kind  
 
 ### Tech Stack
 
