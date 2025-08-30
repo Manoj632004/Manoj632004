@@ -2,9 +2,9 @@
 <h3 align="left">Machine Learning Researcher and Engineer</h3>
 
 ### About Me  
-- Graduated with a Bachelor's in Computer Science & Engineering from **Alliance University, Bengaluru**  
-- Active in **Deep Learning** & **Natural Language Processing** research and development  
-- Open to **collaborations** in tech and research of any kind  
+- Pursuing Data Science & AI Msc at Newcastle University, UK
+- Active in Machine Learning research and development  
+- Open to collaborations in tech and research of any kind  
 
 ### Tech Stack
 
@@ -44,4 +44,6 @@
 ### Publications
 
 - 📄 **[A Survey on Sentiment Analysis in Tamil: Critical Analysis](http://dx.doi.org/10.15439/2024R28)**, Proceedings of the 2024 Ninth International Conference on Research in Intelligent Computing in Engineering. ACSIS, Vol. 42, pages 49–62 (2024)
+- S. Manoj, V. K. Shrivastava, A. H. Soliman. **”Banana Leaves Disease Detection and Classification using CNN Model”**.
+Proceedings of the Fourth International Conference on Computing and Communication Networks, Volume 2. [(To be Published)](https://link.springer.com/book/9789819661237)
 
