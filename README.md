@@ -44,6 +44,6 @@
 ### Publications
 
 - **[A Survey on Sentiment Analysis in Tamil: Critical Analysis](http://dx.doi.org/10.15439/2024R28)**, Proceedings of the 2024 Ninth International Conference on Research in Intelligent Computing in Engineering. ACSIS, Vol. 42, pages 49–62 (2024)
-- S. Manoj, V. K. Shrivastava, A. H. Soliman. **”Banana Leaves Disease Detection and Classification using CNN Model”**.
-Proceedings of the Fourth International Conference on Computing and Communication Networks, Volume 2. [(To be Published)](https://link.springer.com/book/9789819661237)
+- S. Manoj, V. K. Shrivastava, A. H. Soliman. [”Banana Leaves Disease Detection and Classification using CNN Model”](https://link.springer.com/chapter/10.1007/978-981-96-6124-4_52#chapter-info).
+Proceedings of the Fourth International Conference on Computing and Communication Networks, Volume 2.
 
