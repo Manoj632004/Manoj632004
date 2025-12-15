@@ -4,7 +4,6 @@
 ### About Me  
 - Pursuing Data Science & AI Msc at Newcastle University, UK
 - Active in Machine Learning research and development  
-- Open to collaborations in tech and research of any kind  
 
 ### Tech Stack
 
