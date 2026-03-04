@@ -1,5 +1,4 @@
 <h1 align="left">Hi, I'm Manoj</h1>
-<h3 align="left">Machine Learning Researcher and Engineer</h3>
 
 ### About Me  
 - Pursuing Data Science & AI Msc at Newcastle University, UK
