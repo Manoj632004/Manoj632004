@@ -1,10 +1,11 @@
 <h1 align="left">Hi, I'm Manoj</h1>
 
-### About Me  
+# About Me  
 - Pursuing Data Science & AI Msc at Newcastle University, UK
 - Active in Machine Learning research and development  
 
-### Tech Stack
+
+# Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,8 +35,46 @@
 ![Dataverse](https://img.shields.io/badge/Dataverse-512BD4?style=for-the-badge&logo=dataverse&logoColor=white)
 
 
+# Projects and Mini projects
 
-### Publications
+### Forecasting & Predictive Analytics
+
+| Project | Description |
+|--------|------------|
+| [Forecasting Agent for FinTech](https://github.com/Manoj632004/Forecasting-Agent-for-Fintech) | Agentic System to automate ML pipeline building for forecasting tasks |
+| [Currency Predictor](https://github.com/Manoj632004/Forex-Currency-Predictor) | Forecasts forex currency exchange rate trends using ML models |
+| [Demand Forecasting](https://github.com/Manoj632004/Supply-chain-demand-forecasting) | Forecasts WALMART product demand for supply chain planning |
+
+
+### Computer Vision & Image Processing
+
+| Project | Description |
+|--------|------------|
+| [Face Recognition Surveillance](https://github.com/Manoj632004/Face-Recognition-Surveillance-for-Semi-Public-Spaces) | Real-time facial recognition system for security applications |
+| [OCT Cyst Segmentation](https://github.com/Manoj632004/OCT-Cyst-Segmentation) | Medical image segmentation for retinal disease analysis |
+| [Banana Plant Disease Detection](https://github.com/Manoj632004/Banana_plant_decease_detection) | Detects plant diseases using image classification models |
+| [Object Detection Architecture Blueprint](https://github.com/Manoj632004/Architecture-Blueprint-Object-Detector) | End-to-end object detection for architural blue print images |
+
+
+### Intelligent AI Systems
+
+| Project | Description |
+|--------|------------|
+| [Question Answer System](https://github.com/Manoj632004/Question_Answering_System) | NLP-based automated multi-lingual question answering system |
+| [AI Document Parser](https://github.com/Manoj632004/AI-Document-Parser) | Extracts structured insights from unstructured documents |
+| [Adaptive Quiz based on Bloom’s Taxonomy levels](https://github.com/Manoj632004/Adaptive-quiz-using-blooms-taxonomy-and-Unsupervised-Learning) | Personalized learning system adapting difficulty using ML and BTL|
+| [Genetic Algorithm for Scheduling](https://github.com/Manoj632004/scheduling-GA) | Scheduling optimization using evolutionary algorithms |
+
+
+### Generative AI Applications
+
+| Project | Description |
+|--------|------------|
+| [AI-Based Storytelling App](https://github.com/Manoj632004/AI-based-Story-Telling-App) | AI-generated narrative and storytelling system |
+| [Civil AI Assistant](https://github.com/Manoj632004/Civil-AI) | Generative AI assistant for civil engineering domain queries |
+
+
+# Publications
 
 - **[A Survey on Sentiment Analysis in Tamil: Critical Analysis](http://dx.doi.org/10.15439/2024R28)**, Proceedings of the 2024 Ninth International Conference on Research in Intelligent Computing in Engineering. ACSIS, Vol. 42, pages 49–62 (2024)
 - S. Manoj, V. K. Shrivastava, A. H. Soliman. [”Banana Leaves Disease Detection and Classification using CNN Model”](https://link.springer.com/chapter/10.1007/978-981-96-6124-4_52#chapter-info).
