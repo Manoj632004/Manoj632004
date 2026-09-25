@@ -1,8 +1,5 @@
 <h1 align="left">Hi, I'm Manoj</h1>
 
-# About Me  
-- Pursuing Data Science & AI Msc at Newcastle University, UK
-- Active in Machine Learning research and development  
 
 
 # Tech Stack
